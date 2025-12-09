@@ -1,4 +1,4 @@
-##📦 UsbCloner ##
+## 📦 UsbCloner ##
 Herramienta para copiar archivos desde una carpeta de origen a múltiples memorias USB simultáneamente.
 
 ### 📘 Descripción
@@ -82,4 +82,5 @@ https://www.udemy.com/course/python-gui-tkinter/?utm_source=bing&utm_medium=udem
 ### DUDAS QUE HE TENIDO SOBRE COMO HACER OTRAS COSAS
 - CHATGPT
 - stackoverflow
+
 - ...
