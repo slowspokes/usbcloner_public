@@ -68,7 +68,7 @@ UsbCloner/
 ## RECURSOS UTILIZADOS DURANTE LA CREACION DE ESTE PROGRAMA
 
 ### RESOURCES USADOS PARA EL PROYECTO:
-##CLONAR O COPIAR ARXIVOS: ##
+## CLONAR O COPIAR ARXIVOS: 
 - https://python.19633.com/es/Python/1002010766.html
 - https://es.stackoverflow.com/questions/406502/copiar-archivos-de-una-carpeta-a-otra-con-python
 - https://labex.io/pythoncheatsheet/modules/os-module
@@ -84,3 +84,4 @@ https://www.udemy.com/course/python-gui-tkinter/?utm_source=bing&utm_medium=udem
 - stackoverflow
 
 - ...
+
