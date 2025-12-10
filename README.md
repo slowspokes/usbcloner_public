@@ -1,4 +1,4 @@
-## 📦 UsbCloner ##
+# 📦 UsbCloner
 Herramienta para copiar archivos desde una carpeta de origen a múltiples memorias USB simultáneamente.
 
 ### 📘 Descripción
@@ -10,7 +10,9 @@ Permite seleccionar una carpeta de origen y enviarla a varias memorias extraíbl
 
 - Borrar: Elimina el contenido del USB antes de copiar archivos nuevos (solo en unidades extraíbles reconocidas).
 
-La herramienta está diseñada para uso administrativo, distribución de material de estudio, material de empresa, o creación de kits USB.
+La herramienta está diseñada para uso administrativo, distribución de material de estudio, material de empresa, o creación de kits USB.\
+
+**Nota: No usar en documentos de alta importancia, con datos importantes, o donde los metadatos son importantes.**
 
 ### 🛡️ Seguridad
  
@@ -35,14 +37,15 @@ Está desarrollado en Python usando Tkinter y PyInstaller.
 
 ### 📂 Estructura del proyecto
 
-UsbCloner/
-├─ clonusb.py
-├─ img/
-│   └─ usbcloner.ico
-├─ dist/
-├─ build/
-├─ README.md
-├─ LICENSE
+UsbCloner/ \
+├─ clonusb.py \
+├─ img/ \
+│   └─ usbcloner.ico \
+├─ app/ \
+│   ├─ usbcloner.exe \
+|   └─ __internal__ \
+├─ README.md \
+├─ LICENSE \
 └─ requirements.txt
 
 ### ▶️ Uso
@@ -55,7 +58,7 @@ UsbCloner/
 
 4. Presiona EMPEZAR
 
-5. Revisa los mensajes del log para ver el progreso
+5. Revisa los mensajes del log para visualizar las acciones del usuario
 
 ### 💻 Entornos
 - Windows 10 / 11
@@ -67,8 +70,7 @@ UsbCloner/
 
 ## RECURSOS UTILIZADOS DURANTE LA CREACION DE ESTE PROGRAMA
 
-### RESOURCES USADOS PARA EL PROYECTO:
-## CLONAR O COPIAR ARXIVOS: 
+### CLONAR O COPIAR ARXIVOS: 
 - https://python.19633.com/es/Python/1002010766.html
 - https://es.stackoverflow.com/questions/406502/copiar-archivos-de-una-carpeta-a-otra-con-python
 - https://labex.io/pythoncheatsheet/modules/os-module
@@ -82,6 +84,6 @@ https://www.udemy.com/course/python-gui-tkinter/?utm_source=bing&utm_medium=udem
 ### DUDAS QUE HE TENIDO SOBRE COMO HACER OTRAS COSAS
 - CHATGPT
 - stackoverflow
-
 - ...
+
 
